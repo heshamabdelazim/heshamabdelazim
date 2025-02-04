@@ -12,9 +12,7 @@
 
 
 <p align="center">
-  <a>
     <img src="https://skillicons.dev/icons?i=java,javascript,typescript,react,next,redux,css,tailwind,bootstrap,sass,postman,selenium" />
-  </a>
 </p>
 
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gitdimmed" alt="heshamabdelazim" /></a> </p>
