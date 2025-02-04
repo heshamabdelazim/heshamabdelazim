@@ -17,6 +17,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heshamabdelazim" alt="heshamabdelazim" /></a> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heshamabdelazim&show_icons=true&locale=en&layout=compact" alt="heshamabdelazim" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=heshamabdelazim&show_icons=true&locale=en" alt="heshamabdelazim" />
