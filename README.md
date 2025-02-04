@@ -5,8 +5,7 @@
 <p align="center" >
 <a href="https://linkedin.com/in/hesham-abdelazim-kamel/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/hesham-abdelazim-kamel" height="30" width="40" /></a>
  <a href="https://wa.me/+201212005626" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="https://linkedin.com/in/hesham-abdelazim-kamel" height="30" width="40" /></a>
-  <a href="mailto:heshamabdelazim3@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="https://linkedin.com/in/hesham-abdelazim-kamel" height="30" width="40" /></a>
-   <a href="mailto:heshamabdelazim3@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Gmail_Icon.png" alt="https://linkedin.com/in/hesham-abdelazim-kamel" height="30" width="40" /></a>
+
 </p>
 
 
