@@ -4,7 +4,6 @@
 
 <p align="center" >
 <a href="https://linkedin.com/in/hesham-abdelazim-kamel/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/hesham-abdelazim-kamel" height="30" width="40" /></a>
-
  <a href="https://linkedin.com/in/hesham-abdelazim-kamel/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://linkedin.com/in/hesham-abdelazim-kamel" height="30" width="40" /></a>
 </p>
 
