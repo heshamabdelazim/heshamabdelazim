@@ -15,9 +15,9 @@
     <img src="https://skillicons.dev/icons?i=java,javascript,typescript,react,next,redux,css,tailwind,bootstrap,sass,postman,selenium" />
 </p>
 
-<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=heshamabdelazim&theme=onedark" alt="heshamabdelazim" /></a> </p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gitdimmed" alt="heshamabdelazim" /></a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=heshamabdelazim&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=heshamabdelazim&theme=gitdimmed)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heshamabdelazim&show_icons=true&locale=en&layout=compact" alt="heshamabdelazim" />
