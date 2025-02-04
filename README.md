@@ -16,9 +16,10 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heshamabdelazim" alt="heshamabdelazim" /></a> </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heshamabdelazim&show_icons=true&locale=en&layout=compact" alt="heshamabdelazim" />
+<p align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heshamabdelazim&show_icons=true&locale=en&layout=compact" alt="heshamabdelazim" />
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heshamabdelazim&show_icons=true&locale=en" alt="heshamabdelazim" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=heshamabdelazim&show_icons=true&locale=en" alt="heshamabdelazim" />
 </p>
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=heshamabdelazim&" alt="heshamabdelazim" /></p>
 <!--
