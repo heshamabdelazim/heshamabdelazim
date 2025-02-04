@@ -4,7 +4,7 @@
 
 
 ```diff
-!hello
+! text in orange
 ```
 <p align="left" color:"red"> <img src="https://komarev.com/ghpvc/?username=heshamabdelazim&label=Profile%20views&color=0e75b6&style=flat" alt="heshamabdelazim" /> </p>
 
