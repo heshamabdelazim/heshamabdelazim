@@ -1,5 +1,5 @@
 <h1> Hello 👋🤓 <br/> I am Hesham Abdo.🫡</h1>
-<h3 align="center">$${\color{red} Front-End \space Dev}$$ && Tester Dev</h3>
+<h3 align="center">$${\color{tan} Front-End \space Dev \color{white} && \color{lightgreen} Tester Dev}$$ </h3>
 
 
 
