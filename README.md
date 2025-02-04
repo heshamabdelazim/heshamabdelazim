@@ -14,8 +14,6 @@
   </a>
 </p>
 
-<p align="left" color:"red"> <img src="https://komarev.com/ghpvc/?username=heshamabdelazim&label=Profile%20views&color=0e75b6&style=flat" alt="heshamabdelazim" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heshamabdelazim" alt="heshamabdelazim" /></a> </p>
 
 <!--
