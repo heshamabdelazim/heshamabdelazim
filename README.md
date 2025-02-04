@@ -7,15 +7,13 @@
  <a href="https://wa.me/+201212005626" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="https://linkedin.com/in/hesham-abdelazim-kamel" height="30" width="40" /></a>
   <a href="mailto:heshamabdelazim3@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="https://linkedin.com/in/hesham-abdelazim-kamel" height="30" width="40" /></a>
    <a href="mailto:heshamabdelazim3@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Gmail_Icon.png" alt="https://linkedin.com/in/hesham-abdelazim-kamel" height="30" width="40" /></a>
- 
 </p>
 
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=java,javascript,typescript,react,next,redux,css,tailwind,bootstrap,sass,postman,selenium" />
 </p>
-
-<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gitdimmed" alt="heshamabdelazim" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gitdimmed" /></a> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=heshamabdelazim&theme=gitdimmed)](https://github.com/ryo-ma/github-profile-trophy)
 
