@@ -1,4 +1,4 @@
-<h1 align="center"> Hello 👋, I am Hesham Abdo.</h1>
+<h1 align="center"> Hello🤓, I am Hesham Abdo.</h1>
 <h3 align="center">$${\color{tan} Front \space End \space Dev \color{white} \space \space and \space 
  \space \color{lightgreen} Tester \space Dev}$$ </h3>
 
@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heshamabdelazim" alt="heshamabdelazim" /></a> </p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gitdimmed" alt="heshamabdelazim" /></a> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=heshamabdelazim&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
