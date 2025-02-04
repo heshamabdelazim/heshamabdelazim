@@ -11,7 +11,7 @@
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=git,java,javascript,react,next,typescript,postman,selenium" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,react,next,typescript,postman,selenium,redux,tailwind,bootstrap,sass" />
   </a>
 </p>
 ```diff
