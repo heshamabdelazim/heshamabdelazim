@@ -14,7 +14,7 @@
     <img src="https://skillicons.dev/icons?i=java,javascript,typescript,react,next,redux,css,tailwind,bootstrap,sass,postman,selenium" />
 </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heshamabdelazim&theme=gitdimmed&title=Experience,Stars" /></a> </p>
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heshamabdelazim&theme=gitdimmed" /></a> </p>
 
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heshamabdelazim&show_icons=true&locale=en&layout=compact" alt="heshamabdelazim" />
