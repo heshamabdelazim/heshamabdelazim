@@ -1,6 +1,11 @@
 <h1> Hello 👋🤓 <br/> I am Hesham Abdo.🫡</h1>
 <h3 align="center">Front-End Dev && Tester Dev</h3>
-! text in orange
+
+
+
+```diff
+!hello
+```
 <p align="left" color:"red"> <img src="https://komarev.com/ghpvc/?username=heshamabdelazim&label=Profile%20views&color=0e75b6&style=flat" alt="heshamabdelazim" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heshamabdelazim" alt="heshamabdelazim" /></a> </p>
