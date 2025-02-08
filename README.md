@@ -2,6 +2,8 @@
 <h3 align="center">$${\color{tan} Front \space End \space Dev \color{white} \space \space \color{lightgray} and \space 
  \space \color{lightgreen} Tester \space Dev}$$ </h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=heshamabdelazim&label=Profile%20views&color=0e75b6&style=flat" alt="my views" /> </p>
+
 <p align="center" >
 <a href="https://linkedin.com/in/hesham-abdelazim-kamel/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/hesham-abdelazim-kamel" height="30" width="40" /></a>
  <a href="https://wa.me/+201212005626" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="https://linkedin.com/in/hesham-abdelazim-kamel" height="30" width="40" /></a>
