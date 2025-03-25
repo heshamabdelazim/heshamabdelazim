@@ -1,8 +1,13 @@
 <h1 align="center"> Hello🤓, I am Hesham Abdo.</h1>
 <h3 align="center">$${\color{tan} Front \space End \space Dev \color{white} \space \space \color{lightgray} and \space 
- \space \color{lightgreen} Tester \space Dev}$$ </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heshamabdelazim&label=Profile%20views&color=0e75b6&style=flat" alt="my views" /> </p>
+ \space \color{lightgreen} Software \space Testing}$$ </h3>
+ 
+<p align="Center">
+ <a href="https://hesham98-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge" alt="Portfolio Badge"/></a>
+</p>
+<p align="Center">
+ <img src="https://komarev.com/ghpvc/?username=heshamabdelazim&label=Profile%20views&color=0e75b6&style=flat" alt="my views" /> 
+</p>
 
 <p align="center" >
 <a href="https://linkedin.com/in/hesham-abdelazim-kamel/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/hesham-abdelazim-kamel" height="30" width="40" /></a>
