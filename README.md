@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=900&size=80&duration=2000&pause=1000&color=000000&background=FF40DC00&center=true&repeat=false&width=1000&height=140&lines=Greetings%F0%9F%A4%93)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=5000&color=2788B3&background=FF40DC00&center=true&repeat=false&width=1000&lines=I+am+Hesham+Abdel-Azim)](https://git.io/typing-svg)
+<h1 align="center">Greetings 🤓</h1>
 
 <h3 align="center">$${\color{tan} Front \space End \space Dev \color{white} \space \space \color{lightgray} and \space 
  \space \color{lightgreen} Software \space Testing}$$ </h3>
