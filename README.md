@@ -1,8 +1,6 @@
 <h1 align="center">Greetings 🤓</h1>
 
-<h3 align="center">$${\color{tan} Front \space End \space Dev \color{white} \space \space \color{lightgray} and \space 
- \space \color{lightgreen} Software \space Testing}$$ </h3>
- 
+<h3 align="center">Front-End / Software testing</h3> 
 <p align="Center">
  <a href="https://hesham98-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge" alt="Portfolio Badge"/></a>
 </p>
