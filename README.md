@@ -1,6 +1,6 @@
 <h1 align="center">Greetings 🤓</h1>
 
-<h3 align="center">Front-End / Crowd Testing Platforms</h3> 
+<h3 align="center">Front-End</h3> 
 <p align="Center">
  <a href="https://hesham98-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge" alt="Portfolio Badge"/></a>
 </p>
